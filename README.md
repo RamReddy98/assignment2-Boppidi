@@ -43,7 +43,7 @@ The following table describes Sports activities that someone should try.
 |    Hockey  |     India    |       60$          |
 |     Cricket                   |       England               |       70$         |
 |     Football                 |   France   |      70$         |
-|     Badminto                      |     Australia              |       70$          |
+|     Badminton                      |     Australia              |       50$          |
 
 ---
 
