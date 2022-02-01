@@ -7,5 +7,5 @@ I am optimistic, goal oriented and self independent.
     Worked with different clients for projects related to data reconciliation and database management.
     Experienced working in a fast-paced environment to meet client's requirements.
 
-[Ram image](Ram.jpeg)
+![Ram image](Ram.jpeg)
 
