@@ -34,7 +34,7 @@ we do have walmart, dominos , **dollar tree** and Hyvee as sorroundings to the K
 
 ---
 
-# Table
+# Sports Activities - Table
 
 The following table describes Sports activities that someone should try.
 
