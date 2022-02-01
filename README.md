@@ -38,12 +38,12 @@ we do have walmart, dominos , **dollar tree** and Hyvee as sorroundings to the K
 
 The following table describes Sports activities that someone should try.
 
-|     Name of the Sport   |       Location    |      Cost    |    
-|           ---                   |           ---                 |       ---          |
-|    Hockey  |     India    |       60$          |
-|     Cricket                   |       England               |       70$         |
-|     Football                 |   France   |      70$         |
-|     Badminton                      |     Australia              |       50$          |
+|Name of the Sport|Location|Cost|    
+|---|---|---|
+|Hockey|India|60$|
+|Cricket|England|70$|
+|Football|France|70$|
+|Badminton|Australia|50$|
 
 ---
 
