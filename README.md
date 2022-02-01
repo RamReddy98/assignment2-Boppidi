@@ -49,8 +49,10 @@ The following table describes Sports activities that someone should try.
 
 # Pithy Quotes
 >  "Either write something worth reading or do something worth writing." —Benjamin Franklin   
-<br>
+    <br>
 >  "Anyone who has never made a mistake has never tried anything new." —Albert Einstein
+
+
 
 
 
