@@ -31,3 +31,19 @@ we do have walmart, dominos , **dollar tree** and Hyvee as sorroundings to the K
    * pepsi
 
 [Link to AboutMe](https://github.com/RamReddy98/assignment2-Boppidi/blob/main/AboutMe.md)
+
+---
+
+# Table
+
+The following table describes Sports activities that someone should try.
+
+|     Name of the Sport   |       Location    |      Cost    |    
+|           ---                   |           ---                 |       ---          |
+|    Hockey  |     India    |       60$          |
+|     Cricket                   |       England               |       70$         |
+|     Football                 |   France   |      70$         |
+|     Badminto                      |     Australia              |       70$          |
+
+---
+
