@@ -30,7 +30,7 @@ we do have walmart, dominos , **dollar tree** and Hyvee as sorroundings to the K
    * Dew
    * pepsi
 
-[Link to AboutMe](AboutMe.md)
+![Link to AboutMe](AboutMe.md)
 
 ---
 
