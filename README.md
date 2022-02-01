@@ -56,7 +56,7 @@ The following table describes Sports activities that someone should try.
 # Code Fencing
 > Breadth First Traversal (or Search) for a graph is similar to Breadth First Traversal of a tree (See method 2 of this post). The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array. For simplicity, it is assumed that all vertices are reachable from the starting vertex.
 
-Link to source <https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph>
+Link to source<https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph>
 ```
 <pre>
 vector<vector<int>> adj;  // adjacency list representation
