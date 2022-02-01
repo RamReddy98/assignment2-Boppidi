@@ -88,6 +88,30 @@ vector<vector<int>> adj;  // adjacency list representation
 
 Link to source code <https://cp-algorithms.com/graph/breadth-first-search.html>
 
+> Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees, graphs may contain cycles (a node may be visited twice). To avoid processing a node more than once, use a boolean visited array.
+
+Link to source <https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/?ref=gcse>
+```
+<pre>
+ vector<vector<int>> adj; // graph represented as an adjacency list
+   int n; // number of vertices
+
+   vector<bool> visited;
+
+   void dfs(int v) {
+    visited[v] = true;
+    for (int u : adj[v]) {
+        if (!visited[u])
+            dfs(u);
+    }
+}
+</pre>
+```
+
+Link to source code <https://cp-algorithms.com/graph/depth-first-search.html"> Link to source code>
+
+
+
 
 
 
