@@ -47,3 +47,9 @@ The following table describes Sports activities that someone should try.
 
 ---
 
+# Quotes by Authors
+>  "Either write something worth reading or do something worth writing."  
+***—Benjamin Franklin***  <br>
+>  "Anyone who has never made a mistake has never tried anything new."  - by
+***—Albert Einstein***
+
