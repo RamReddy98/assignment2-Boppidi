@@ -59,7 +59,7 @@ The following table describes Sports activities that someone should try.
 
 Link to source <https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph>
 ```
-<pre>
+
 vector<vector<int>> adj;  // adjacency list representation
    int n; // number of nodes
    int s; // source vertex
@@ -83,7 +83,7 @@ vector<vector<int>> adj;  // adjacency list representation
            }
        }
     }
-</pre>
+
 ```
 
 Link to source code <https://cp-algorithms.com/graph/breadth-first-search.html>
@@ -92,7 +92,7 @@ Link to source code <https://cp-algorithms.com/graph/breadth-first-search.html>
 
 Link to source <https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/?ref=gcse>
 ```
-<pre>
+
  vector<vector<int>> adj; // graph represented as an adjacency list
    int n; // number of vertices
 
@@ -105,7 +105,7 @@ Link to source <https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-gr
             dfs(u);
     }
 }
-</pre>
+
 ```
 
 Link to source code <https://cp-algorithms.com/graph/depth-first-search.html"> Link to source code>
